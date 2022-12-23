@@ -1,2 +1,2 @@
-from figures import circle_area
-circle_area()
+from figures import triangle_area
+triangle_area()
